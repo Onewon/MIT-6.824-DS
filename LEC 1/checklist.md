@@ -1,2 +1,3 @@
 - [ ] Web Crawler with Go
-- [ ] Go's [RPC package](https://golang.org/pkg/net/rpc/)
+- [X] Go's [RPC package](https://golang.org/pkg/net/rpc/)
+- [ ] My MapReduce
