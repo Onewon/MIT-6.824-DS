@@ -1,10 +1,10 @@
 - [X] Web Crawler with Go
 - [X] Go's [RPC package](https://golang.org/pkg/net/rpc/)
-- [ ] My MapReduce
+- [X] My MapReduce
    - [X] Part I: Map/Reduce input and output
    - [X] Part II: single-worker word count
-   - [ ] Part III: distributing MapReduce tasks
+   - [X] Part III: distributing MapReduce tasks
 - [ ] Raft
-   - [ ] leader election and heartbeats (note)
+   - [X] leader election and heartbeats (note)
    - [ ] keep a consistent, replicated log of operations (note)
    - [ ] persist
